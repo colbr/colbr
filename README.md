@@ -1,7 +1,5 @@
-### Hi there 👋
+### Kia ora 👋
 
-I'm a freelance developer from Auckland, New Zealand. Interested in UX, web3, privacy, and optimising work/life balance.
+I'm a full-stack developer from Aotearoa. Working on fun stuff w fun people.
 
-🌱  Currently working with Rational Nomads and [zer0](https://zero.tech/)
-
-:man: he/him
+🐊 UI things @ [zer0](https://zero.tech/) & Rational Nomads
