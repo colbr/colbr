@@ -1,16 +1,34 @@
-## Hi there 👋
+## Kia ora 🪲
 
-<!--
-**colbr/colbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 [LinkedIn](https://www.linkedin.com/in/crettbollins/)
 
-Here are some ideas to get you started:
+<details>
+  <summary>✨ Things I've worked on</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  #### [ZERO Tech](https://zero.tech)
+  > Full-stack Developer
+
+  - Decentralised web apps ([zOS](https://zos.zero.tech/), [Explorer](https://explorer.zero.tech), and dApps for staking, managing DAOs, and trading NFTs).
+  - Web3 indexers (subgraphs [\[1\]](https://thegraph.com/explorer/subgraphs/78WsHdZFtkPrZjT3nYvd2KvFZ6w8mbZXsJexsBEXM2uV?v=2&view=Query&chain=arbitrum-one), and private centralised indexers).
+  - Internal toolkits for interacting with Ethereum smart contracts.
+  - An accessible React component system (with Storybook).
+  - Several large-scale NFT drops for [Wilder World](https://www.wilderworld.com).
+
+  > 🛠️ React, NextJS, AssemblyScript, Ethers, Viem, NodeJS, Go, The Graph, Edge Functions, Web3, Supabase, Vercel, AWS
+
+  #### [Rational Nomads](https://rationalnomads.com)
+  > Co-owner, Full-stack Developer
+
+  - Web app for dentists to create, chart, and communicate dental treatment plans (Netherlands-based AI dental company).
+  - Internal tooling (US-based healthcare company).
+
+  > 🛠️ NextJS, Vanilla HTML + CSS + JS
+
+  #### [Instaroast.ai](https://instaroast.ai)
+  > Co-owner, Full-stack Developer
+
+  - [Front-end](https://instaroast.ai) with NextJS.
+  - Contributed to product decisions.
+
+  > 🛠️ NextJS, Tailwind, Shadcn
+</details>
